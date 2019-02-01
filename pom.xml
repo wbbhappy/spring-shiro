@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>3.2.0.RELEASE</version>
+            <version>4.0.0.RELEASE</version>
         </dependency>
         <!-- shiro依赖包 -->
         <dependency>

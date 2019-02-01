@@ -23,8 +23,11 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="authc" />
+        <module name="spring-shiro" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="spring-shiro" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
