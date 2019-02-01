@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/authc.iml" filepath="$PROJECT_DIR$/authc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-shiro.iml" filepath="$PROJECT_DIR$/spring-shiro.iml" />
     </modules>
   </component>
 </project>
