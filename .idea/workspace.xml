@@ -6,104 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9279be63-9e0a-4034-b2a9-4a495476ccc6" name="Default" comment="shiro修改">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/applicationContext-shiro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/controller/AdminController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/entity/Permission.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/entity/Role.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/entity/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/Impl/PermissionServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/Impl/RoleServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/Impl/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/PermissionService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/RoleService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/shiro/CaptchaUsernamePasswordToken.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/shiro/IncorrectCaptchaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/shiro/MyHandleException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/shiro/MyRealm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/utils/SpringUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/com/authc/utils/VerifyCodeUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/classes/springmvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/ehcache-core-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/shiro-core-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/shiro-ehcache-1.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/shiro-spring-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/shiro-web-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/lib/slf4j-api-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/admin.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/checkcode.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/error.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/info.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/kaptcha.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/main.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/myinfo.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/allStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/Validform_v5.3.2_min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/docs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/jquery.1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/page/jquery.twbsPagination.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/page/zzsc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/treetable/css/jquery.treetable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/treetable/css/jquery.treetable.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/treetable/css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/js/treetable/jquery.treetable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/aspectjweaver-1.7.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/commons-collections-3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/ehcache-core-2.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/kaptcha-2.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/log4j-1.2.14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/ojdbc14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/shiro-core-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/shiro-ehcache-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/shiro-spring-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/shiro-web-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/slf4j-api-1.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/slf4j-log4j12-1.7.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/spring-jdbc-3.2.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/spring.jdbc-3.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/lib/spring.transaction-3.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/font/loginform-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/font/loginform-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/font/loginform-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/font/loginform-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/prefixfree.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/profilepicture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/authc/res/login/profilepicture1.jpg" afterPath="" />
+    <list default="true" id="9279be63-9e0a-4034-b2a9-4a495476ccc6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-shiro.iml" afterPath="$PROJECT_DIR$/spring-shiro.iml" />
     </list>
     <ignored path="spring-shiro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1184,7 +1088,7 @@
       <workItem from="1548991315549" duration="100000" />
       <workItem from="1548991443757" duration="3016000" />
       <workItem from="1549004584440" duration="432000" />
-      <workItem from="1549005107833" duration="1286000" />
+      <workItem from="1549005107833" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="shiro修改">
       <created>1549004925233</created>
@@ -1207,11 +1111,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549005145805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="shiro修改">
+      <created>1549006398343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549006398343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10535000" />
+    <option name="totallyTimeSpent" value="10558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
